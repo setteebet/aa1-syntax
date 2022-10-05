@@ -1,18 +1,18 @@
 {
   "name": "aa1-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "lottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด24ชั่วโมง",
-"keywords": [
-"lottovip",
-"เว็บหวยลาวหวยฮานอย",
-"lottovip ios",
-"ออนไลหวย",
-"lottovip ไลน์"
-],
+  "version": "0.2.0",
+  "description": "lottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด24ชั่วโมง",
+  "keywords": [
+    "lottovip",
+    "เว็บหวยลาวหวยฮานอย",
+    "lottovip ios",
+    "ออนไลหวย",
+    "lottovip ไลน์"
+  ],
   "repository": "https://github.com/setteebet/aa1-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
